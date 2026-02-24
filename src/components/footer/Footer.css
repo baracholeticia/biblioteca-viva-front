@@ -1,0 +1,44 @@
+.invite {
+  background-color: #0b2b5a;
+  color: white;
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.invite h2 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.invite p {
+  margin-bottom: 30px;
+  font-size: 16px;
+  color: #e2e8f0;
+}
+
+.primary-btn {
+  background-color: #d62828;
+  color: white;
+  padding: 14px 38px;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+}
+
+.primary-btn:hover {
+  background-color: #b91d1d;
+}
+
+.footer {
+  background-color: #0a2a57;
+  color: #94a3b8;
+  text-align: center;
+  padding: 30px;
+  border-top: 1px solid #1e3a8a;
+}
+
+.footer strong {
+  color: white;
+}
